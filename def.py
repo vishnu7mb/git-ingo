@@ -1,2 +1,3 @@
 def vishnu(self):
-    return "monday"
+    print("monday")
+vishnu()
