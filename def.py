@@ -1,2 +1,2 @@
 def vishnu(self):
-    return "hellooooo"
+    return "hellooo"
